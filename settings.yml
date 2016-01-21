@@ -29,10 +29,10 @@ xmpp:
   domain: example.com
 
 database:
-  uri: mongodb://localhost/letschat
+  uri: mongodb://mongodb.cloud66.local:28017/letschat
 
 secrets:
-  cookie: secretsauce
+  cookie: ddsdfsdfsfdsdfsfdsdfsfd
 
 auth:
   providers: [local]
